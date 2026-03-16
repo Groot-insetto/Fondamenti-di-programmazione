@@ -1,0 +1,18 @@
+# include <stdio.h>
+
+
+
+//Funzione main
+void main (void){
+
+	unsigned int soldi;
+	soldi = 0;
+
+	printf("Inserisci valore in centesimi: ");
+	scanf("%ud",&soldi);
+
+	soldi = 
+	printf("Servono: %d monete da 50, %d monete da 20, %d monete da 10, %d monete da 5, %d monete da 2, e %d monete da 1",(soldi/50), 
+	((soldi-(50*(soldi/50)))/20));
+
+}
