@@ -1,3 +1,8 @@
+/*
+Name: Giovanni R.
+Exercise text: Implementare in C un programma che chieda all’utente di inserire un carattere minuscolo e determini se è una 
+ vocale o una consonante. 
+*/
 #include <stdio.h>
 
 //Prototipo

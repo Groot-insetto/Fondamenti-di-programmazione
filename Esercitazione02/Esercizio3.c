@@ -1,3 +1,9 @@
+/*
+Name: Giovanni R.
+Exercise text: Scrivere un programma in linguaggio C che, dato un importo espresso in centesimi (numero intero positivo), 
+ calcoli il numero minimo di monete necessarie per rappresentarlo. Le monete disponibili sono da 50, 20, 10, 
+ 5, 2 e 1 centesimo. 
+*/
 # include <stdio.h>
 
 

@@ -1,3 +1,10 @@
+/*
+Name: Giovanni R.
+Exercise text: Scrivere un programma in linguaggio C che chieda all'utente di inserire una distanza percorsa in chilometri 
+ (valore reale) e un tempo espresso in ore e minuti (due valori interi distinti). Il programma deve calcolare e 
+ stampare la velocità media in km/h.
+*/
+
 #include <stdio.h>
 
 

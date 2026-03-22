@@ -1,6 +1,11 @@
 /*
-Nome: Giovanni
-Data: 12-03-2026
+Name: Giovanni
+Date: 12-03-2026
+Exercise text: Scrivere un programma in linguaggio C che chieda all'utente di inserire una temperatura in gradi Celsius e la 
+ converta sia in gradi Fahrenheit che in Kelvin, stampando entrambi i risultati con due cifre decimali. 
+ Le formule di conversione sono le seguenti: 
+	• °F = °C × 9/5 + 32 
+	•  K = °C + 273.15 
 */
 
 #include <stdio.h>

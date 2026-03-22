@@ -1,3 +1,8 @@
+/*
+Name: Giovanni R.
+Exercise text: Implementare in C un programma che chieda all’utente di inserire un numero intero N da tastiera e stampi il 
+ valore del fattoriale di N.
+*/
 #include <stdio.h>
 
 //Prototipo

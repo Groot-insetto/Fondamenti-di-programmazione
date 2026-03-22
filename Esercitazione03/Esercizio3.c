@@ -1,3 +1,9 @@
+/*
+Name: Giovanni R.
+Exercise text: Esercizio 3 
+Implementare in C un programma che chieda all’utente di inserire tre numeri interi (n1, n2, n3) e li ordini in 
+ modo crescente e stampi i nuovi valori delle tre variabili.
+*/
 #include <stdio.h>
 
 //Prototipo

@@ -1,3 +1,11 @@
+/*
+Name: Giovanni R.
+Exeecise text: Implementare in C dei programmi per risolvere i seguenti problemi: 
+	1. Calcolare il valore assoluto di un numero in input.  
+	2. Permettere all’utente di inserire due numeri e un operatore tra +, -, /, * e stampare il risultato 
+	dell’operazione.  
+	3. Scambiare il valore di due variabili intere. 
+*/
 #include <stdio.h>
 
 //Prototipi

@@ -1,3 +1,9 @@
+/*
+Name: Giovanni R.
+Exercise text: Implementare in C un programma che stampi i primi N numeri di Fibonacci, con N definito dall’utente. I 
+ numeri di Fibonacci sono una sequenza di valori interi che inizia con i due valori fissi 1 e 1 e ogni successivo 
+ valore è la somma dei due precedenti.
+*/
 #include <stdio.h>
 
 //Prototipo

@@ -1,3 +1,8 @@
+/*
+Name: Giovanni R.
+Exercise text: Scrivere un programma in linguaggio C che, dato un numero intero a tre cifre inserito dall'utente (compreso 
+ tra 100 e 999), estragga e stampi separatamente la cifra delle centinaia, delle decine e delle unità.
+*/
 #include <stdio.h>
 
 
