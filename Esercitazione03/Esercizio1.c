@@ -115,7 +115,11 @@ float eseguiOperazione(void){
         break;
 
         case 4:
-            return (numero1/numero2);
+		if(numero2 == 0){
+			printf("Calcolo impossibile da eseguire");
+		}else {
+			return (numero1/numero2); 
+		}
         break;
 
     }    
